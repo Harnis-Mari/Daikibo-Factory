@@ -7,7 +7,7 @@ The project is a job simulation data from Forage website sponsored by Deloitte A
 ## Problem Statement
 Through the dataset, we aim to gain insight into the following;
 - Factory with the highest machine downtown.
-- Machine that has the most downtown.
+- Machines with the highest downtown.
 -  Country with the highest machine downtown.
   
 The overall goal is to identify key areas of inefficiency and potential improvement based on machine and location-specific downtime data.
@@ -70,3 +70,6 @@ Air Wrench and Metal Press machines performed optimally across all factories, wi
 * Perform technical assessments of machines with persistent issues and prioritize upgrades or replacements where cost-effective.
 
 ## Final Thought
+The analysis on machine downtown has provided valuable insights into performance and operational inefficiencies across multiple factory locations. It is clear that specific machines in specific countries are the significant contributors to downtime. 
+
+These high-impact issues can be addressed to enhance overall performance through targeted maintenance, training and development, adequate supervision, equipment upgrades, strategic process improvements, and replication of practices from low downtown factory. 
