@@ -18,7 +18,7 @@ The overall goal is to identify key areas of inefficiency and potential improvem
 * Data Analysis: Using statistical methods, and business intelligence techniques to calculate for the downtown using DAX functions, identify key KPIs, trends, and pattern.
 * Data Visualization: Using appropriate charts and cards to visualize the analysis for clear insight through the use of PowerBI.
 * Insight Analysis: Understanding the findings and visuals to evaluate...
-Report Writing & Presentation: Summarizing findings, explaining insights and providing recommendations in a structured professional format. The skills and expertise ensured a thorough and insightful analysis ...
+Report Writing & Presentation: Summarizing findings, explaining insights and providing recommendations in a structured professional format. The skills and expertise ensured a thorough and insightful analysis into the performance ories and machines.
 
 ## Data Modelling 
 ![](D-jobsim.JPEG)
@@ -53,7 +53,7 @@ Laser Welder is the only machine contributing the most downtime.
 
 Air Wrench and Metal Press machines performed optimally across all factories, with no recorded downtime.
 
-_Note: The data recorded the highest downtown in Japan and China relating to specific  machines. This raise the possibility that certain machine may not be fully optimize based on climate condition. it is recommended to conduct further research to understand if there is a relationship._
+##### _Note: The data recorded the highest downtown in Japan and China relating to specific  machines. This raise the possibility that certain machine may not be fully optimize based on climate condition. it is recommended to conduct further research to understand if there is a relationship._
 
 ## Recommendations
 * Focus should be on machines with high downtime. The Laser Welder at Seiko Factory and the Laser Cutter at Shenzhen and Meiyo Factories should be the primary focus, as they contribute the most to overall downtime.
