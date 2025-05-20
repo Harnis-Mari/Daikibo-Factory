@@ -14,7 +14,7 @@ The overall goal is to identify key areas of inefficiency and potential improvem
 
 ## Skills and Expertise
 * Understanding Data: Understanding the data set, the data types, in order to identify errors, and the problems.
-* Data Cleaning & Transformation: With the use of Power Query editor in powerbi, the dataset was transformed from json to table format and cleaner by changing to appriprate data types, and changing the fonts to ensure consistency in values.
+* Data Cleaning & Transformation: With the use of Power Query editor in powerbi, the dataset was transformed from json to table format and cleaned by changing to appriprate data types, and changing the fonts to ensure consistency in values.
 * Data Analysis: Using statistical methods, and business intelligence techniques to calculate for the downtown using DAX functions, identify key KPIs, trends, and pattern.
 * Data Visualization: Using appropriate charts and cards to visualize the analysis for clear insight through the use of PowerBI.
 * Insight Analysis: Understanding the findings and visuals to evaluate...
