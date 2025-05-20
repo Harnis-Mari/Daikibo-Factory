@@ -18,7 +18,8 @@ The overall goal is to identify key areas of inefficiency and potential improvem
 * Data Analysis: Using statistical methods, and business intelligence techniques to calculate for the downtown using DAX functions, identify key KPIs, trends, and pattern.
 * Data Visualization: Using appropriate charts and cards to visualize the analysis for clear insight through the use of PowerBI.
 * Insight Analysis: Understanding the findings and visuals to understand perfromance and maintainance inefficiency.
-* Report Writing & Presentation: Summarizing findings, explaining insights and providing recommendations in a structured professional format. The skills and expertise ensured a thorough and insightful analysis into the performance ories and machines.
+* Report Writing & Presentation: Summarizing findings, explaining insights and providing recommendations in a structured professional format. 
+The skills and expertise ensured a thorough and insightful analysis into the factories and machines performance.
 
 ## Data Modelling 
 ![](D-jobsim.JPEG)
