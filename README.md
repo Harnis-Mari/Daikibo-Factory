@@ -23,7 +23,9 @@ The overall goal is to identify key areas of inefficiency and potential improvem
 The skills and expertise ensured a thorough and insightful analysis into the factories and machines performance.
 
 ## Data Modelling 
-![](D-jobsim.JPEG)
+
+![](PowerQuery.JPEG)
+![](D-JOBSIM.JPEG)
 
 ## Analysis & Insights
 #### Factory Level Summary
