@@ -25,6 +25,7 @@ The skills and expertise ensured a thorough and insightful analysis into the fac
 ## Data Modelling 
 
 ![](PowerQuery.JPEG)
+
 ![](D-JOBSIM.JPEG)
 
 ## Analysis & Insights
